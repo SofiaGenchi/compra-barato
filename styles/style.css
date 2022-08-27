@@ -71,6 +71,19 @@ img {
 .section h1{
   text-transform: uppercase;
   font-style: italic;
+  text-align: center;
+  /* margin: 1rem 0; */
+}
+
+#home div{
+  height: 50vh;
+  text-align: center;
+}
+
+#home div h5 span{
+  color: rgb(9, 9, 133);
+  font-weight: 900;
+  font-style: italic;
 }
 
 .section__title {
